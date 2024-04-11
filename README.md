@@ -1,5 +1,3 @@
-# # Department Report Generator
-
 ## Introduction
 This program generates a department report based on data retrieved from CSV files. It creates objects to handle the retrieval of data and converts it into domain objects according to a given class diagram.
 
